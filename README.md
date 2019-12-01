@@ -12,3 +12,4 @@ Some steps:
 1. Click "This Firefox" if that option exists.
 1. "Temporary Extensions": "Load Temporary Add-on..."
 1. Select the `.json` file.
+1. (If you're running Firefox in incognito, go to <about:addons> -> "Manage" -> "Run in Private Windows": "Allow")
