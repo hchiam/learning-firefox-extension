@@ -1,0 +1,16 @@
+{
+  "description": "Changes background on pages matching mozilla.org",
+  "manifest_version": 2,
+  "name": "Learning Firefox Extension",
+  "version": "1.0",
+  "homepage_url": "https://github.com/hchiam/learning-firefox-extension",
+  "icons": {
+    "48": "example-icon.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["*://*.mozilla.org/*"],
+      "js": ["brain.js"]
+    }
+  ]
+}
