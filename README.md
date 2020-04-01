@@ -13,3 +13,7 @@ Some steps:
 1. "Temporary Extensions": "Load Temporary Add-on..."
 1. Select the `.json` file.
 1. (If you're running Firefox in incognito, go to <about:addons> -> "Manage" -> "Run in Private Windows": "Allow")
+
+## Extra notes:
+
+Example of sending messages between popup script and content script: <https://github.com/hchiam/urlvoid-firefox-extension/commit/b05c5befabf32ac8438cd555082bb42218a72e96>
