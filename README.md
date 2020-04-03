@@ -18,4 +18,6 @@ Example Firefox add-on repo: <https://github.com/hchiam/urlvoid-firefox-extensio
 
 ## Extra notes:
 
-Example of sending messages between popup script and content script: <https://github.com/hchiam/urlvoid-firefox-extension/commit/b05c5befabf32ac8438cd555082bb42218a72e96>
+- Example of sending messages between popup script and content script: <https://github.com/hchiam/urlvoid-firefox-extension/commit/b05c5befabf32ac8438cd555082bb42218a72e96>
+
+- To submit an extension, you'll first need to login at <https://addons.mozilla.org/firefox> and then go to your submissions at <https://addons.mozilla.org/developers/addons>
