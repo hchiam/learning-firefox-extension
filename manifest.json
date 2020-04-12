@@ -1,5 +1,5 @@
 {
-  "description": "Changes background on pages matching mozilla.org",
+  "description": "this is a template - change this description",
   "manifest_version": 2,
   "name": "LearningFirefoxExtension",
   "version": "1.0.0",
