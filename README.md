@@ -25,3 +25,7 @@ Example Firefox add-on repo: <https://github.com/hchiam/urlvoid-firefox-extensio
 - To submit an add-on, you'll need to login to your submissions: <https://addons.mozilla.org/developers/addons>
 
 - Example of sending messages between popup script and content script: <https://github.com/hchiam/urlvoid-firefox-extension/commit/b05c5befabf32ac8438cd555082bb42218a72e96>
+
+## Want to create your own Chrome extension?
+
+Used this template repo as a starting point: <https://github.com/hchiam/chrome-extension-template>
