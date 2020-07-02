@@ -1,4 +1,4 @@
-# Learning Firefox extension
+# Learning Firefox extensions (Firefox add-ons)
 
 Just one of the things I'm learning. <https://github.com/hchiam/learning>
 
