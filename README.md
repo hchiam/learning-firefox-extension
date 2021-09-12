@@ -26,6 +26,24 @@ Example Firefox add-on repo: <https://github.com/hchiam/urlvoid-firefox-extensio
 
 - Example of sending messages between popup script and content script: <https://github.com/hchiam/urlvoid-firefox-extension/commit/b05c5befabf32ac8438cd555082bb42218a72e96>
 
+## Mobile debugging before deployment:
+
+<https://extensionworkshop.com/documentation/develop/getting-started-with-web-ext/>
+
+and
+
+<https://extensionworkshop.com/documentation/develop/developing-extensions-for-firefox-for-android/>
+
+```bash
+# connect Android mobile device via USB
+adb devices
+web-ext run --target=firefox-android
+web-ext run --target=firefox-android --android-device=...
+# a new firefox tab should automatically open
+```
+
+You can now inspect in Firefox with the URL `about:debugging` on your laptop (e.g. the two I personally found helpful are "Temporary Extensions > Inspect" and "Main Process > Inspect").
+
 ## Want to create your own Chrome extension?
 
 Used this template repo as a starting point: <https://github.com/hchiam/chrome-extension-template>
