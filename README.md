@@ -9,10 +9,10 @@ An example forked from MDN repo: <https://github.com/hchiam/webextensions-exampl
 Some steps:
 
 1. Open <about:debugging> in Firefox.
-1. Click "This Firefox" if that option exists.
-1. "Temporary Extensions": "Load Temporary Add-on..."
-1. Select the `.json` file.
-1. (If you're running Firefox in incognito, go to <about:addons> -> "Manage" -> "Run in Private Windows": "Allow")
+2. Click "This Firefox" if that option exists.
+3. "Temporary Extensions": "Load Temporary Add-on..."
+4. Select the `.json` file.
+5. (If you're running Firefox in incognito, go to <about:addons> -> "Manage" -> "Run in Private Windows": "Allow")
 
 Example Firefox add-on repo: <https://github.com/hchiam/urlvoid-firefox-extension>
 
