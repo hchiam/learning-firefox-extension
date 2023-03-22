@@ -16,6 +16,10 @@ Some steps:
 
 Example Firefox add-on repo: <https://github.com/hchiam/urlvoid-firefox-extension>
 
+## Note:
+
+This template is old – consider using something like https://github.com/GoogleChrome/chrome-extensions-samples/tree/main/functional-samples/tutorial.hello-world or https://github.com/GoogleChrome/chrome-extensions-samples/tree/main/functional-samples
+
 ## Useful links:
 
 - <about:debugging#/runtime/this-firefox>
