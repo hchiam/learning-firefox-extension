@@ -14,7 +14,11 @@ Some steps:
 4. Select the `.json` file.
 5. (If you're running Firefox in incognito, go to <about:addons> -> "Manage" -> "Run in Private Windows": "Allow")
 
-Example Firefox add-on repo: <https://github.com/hchiam/urlvoid-firefox-extension>
+You might need about:debugging to see Extension ID = GUID for browser_specific_settings.gecko.id in manifest.json
+
+Example Firefox add-on repos:
+- https://github.com/hchiam/urlvoid-firefox-extension
+- https://github.com/hchiam/togglavatar
 
 ## Note:
 
