@@ -14,7 +14,7 @@ Some steps:
 4. Select the `.json` file.
 5. (If you're running Firefox in incognito, go to <about:addons> -> "Manage" -> "Run in Private Windows": "Allow")
 
-You might need about:debugging to see Extension ID = GUID for browser_specific_settings.gecko.id in manifest.json
+You might need about:debugging to see Extension ID = GUID for browser_specific_settings.gecko.id in manifest.json, or run JavaScript `crypto.randomUUID()` to generate a most-likely-unique UUID.
 
 Example Firefox add-on repos:
 - https://github.com/hchiam/urlvoid-firefox-extension
